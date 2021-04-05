@@ -1,4 +1,4 @@
-FROM ubuntu:20.04
+FROM ubuntu:groovy-20210325
 
 # hadolint ignore=DL3008
 RUN apt-get update && \
