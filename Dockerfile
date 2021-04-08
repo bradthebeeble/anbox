@@ -1,4 +1,4 @@
-FROM ubuntu:20.04
+FROM ubuntu:rolling
 
 # hadolint ignore=DL3008
 RUN apt-get update && \
