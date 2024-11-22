@@ -1,5 +1,6 @@
 [![Snap Status](https://build.snapcraft.io/badge/anbox/anbox.svg)](https://build.snapcraft.io/user/anbox/anbox)
 [![Build Status](https://travis-ci.org/anbox/anbox.svg?branch=master)](https://travis-ci.org/anbox/anbox)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fbradthebeeble%2Fanbox.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fbradthebeeble%2Fanbox?ref=badge_shield)
 
 # Anbox
 
@@ -183,3 +184,6 @@ included.
 
 The Anbox source itself, if not stated differently in the relevant source files,
 is licensed under the terms of the GPLv3 license.
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fbradthebeeble%2Fanbox.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fbradthebeeble%2Fanbox?ref=badge_large)
